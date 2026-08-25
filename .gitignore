@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.csv
+*.kml
+*.jsonl
+*.events.log
+!cellfile.example.csv
